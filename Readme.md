@@ -13,3 +13,4 @@
 | kamogeloCharmaine  | https://www.youtube.com/channel/UCUtTPgZxfZv-p9XlMsxmMqQ  |     https://twitter.com/kamogelo142       |
 | James Quick  | https://www.youtube.com/jamesqquick  |     https://twitter.com/jamesqquick       |
 | Genus-V Programming | https://www.youtube.com/channel/UCSkHbGjrjJmuAbDPhIQ5T0A | https://twitter.com/genus_v|
+| DevSushas| https://www.youtube.com/devsuhas|https://twitter.com/_DevSuhas_|
