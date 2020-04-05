@@ -1,4 +1,4 @@
-| Creator       | Youtube link  | Tweeter link |
+| Creator       | Youtube link  | Twitter link |
 | ------------- | ------------- | ------------ |
 | Florin Pop  | https://www.youtube.com/florinpop  |     https://twitter.com/florinpop1705       |
 | Benjamin N. Spak  | https://www.youtube.com/user/bnspak  |     https://twitter.com/Benjaminspak         |
