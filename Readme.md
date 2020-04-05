@@ -16,3 +16,4 @@
 | DevSushas| https://www.youtube.com/devsuhas|https://twitter.com/_DevSuhas_|
 | Niall Maher| https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw|https://twitter.com/nialljoemaher|
 | fullStackRyan | https://www.youtube.com/channel/UC_PW-BmZK8ROlW6aLGjy8iQ | https://twitter.com/fullStackRyan|
+| Developers Thought | https://www.youtube.com/channel/UC72a--fChlkj5f-7jQhZuiw | https://twitter.com/SagarJadhv23 |
