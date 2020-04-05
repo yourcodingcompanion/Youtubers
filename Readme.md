@@ -15,3 +15,4 @@
 | Genus-V Programming | https://www.youtube.com/channel/UCSkHbGjrjJmuAbDPhIQ5T0A | https://twitter.com/genus_v|
 | DevSushas| https://www.youtube.com/devsuhas|https://twitter.com/_DevSuhas_|
 | Niall Maher| https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw|https://twitter.com/nialljoemaher|
+| fullStackRyan | https://www.youtube.com/channel/UC_PW-BmZK8ROlW6aLGjy8iQ | https://twitter.com/fullStackRyan|
