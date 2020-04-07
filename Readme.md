@@ -19,3 +19,4 @@
 | Developers Thought  | https://www.youtube.com/channel/UC72a--fChlkj5f-7jQhZuiw | https://twitter.com/SagarJadhv23    |
 | Chris DeSilva       | https://www.youtube.com/channel/UCsqk14rHyDlGnn5SrP8bN3A | https://twitter.com/desilvadev      |
 | Claudio Bernasconi  | https://www.youtube.com/claudiobernasconi                | https://twitter.com/CHBernasconiC   |
+| Adora Nwodo         | https://www.youtube.com/c/adorahack                      | https://twitter.com/adoranwodo      |
