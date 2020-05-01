@@ -20,3 +20,4 @@
 | Chris DeSilva       | https://www.youtube.com/channel/UCsqk14rHyDlGnn5SrP8bN3A | https://twitter.com/desilvadev      |
 | Claudio Bernasconi  | https://www.youtube.com/claudiobernasconi                | https://twitter.com/CHBernasconiC   |
 | Adora Nwodo         | https://www.youtube.com/c/adorahack                      | https://twitter.com/adoranwodo      |
+| Austin Beaufort     | https://www.youtube.com/channel/UCUTKXJqFhBb4YlnkEQYIvQg | https://twitter.com/BeaufortAustin  |
