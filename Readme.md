@@ -22,4 +22,6 @@
 | Adora Nwodo         | https://www.youtube.com/c/adorahack                      | https://twitter.com/adoranwodo      |---------|
 | Austin Beaufort     | https://www.youtube.com/channel/UCUTKXJqFhBb4YlnkEQYIvQg | https://twitter.com/BeaufortAustin  |---------|
 | Flutter Explained   | https://www.youtube.com/c/flutterexplained               | https://twitter.com/flutter_exp  | Flutter Development |
-| Raf Rasenberg       | https://www.youtube.com/c/rafrasenberg                   | https://twitter.com/rafrasenberg | ----- |
+| Raf Rasenberg   | https://www.youtube.com/c/rafrasenberg               | https://twitter.com/rafrasenberg | ----- |
+| Amateur Coder   | https://www.youtube.com/c/amateurcoder               | https://twitter.com/immacoder  | Flutter Development |
+
