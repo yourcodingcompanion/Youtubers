@@ -21,5 +21,5 @@
 | Claudio Bernasconi  | https://www.youtube.com/claudiobernasconi                | https://twitter.com/CHBernasconiC   |---------|
 | Adora Nwodo         | https://www.youtube.com/c/adorahack                      | https://twitter.com/adoranwodo      |---------|
 | Austin Beaufort     | https://www.youtube.com/channel/UCUTKXJqFhBb4YlnkEQYIvQg | https://twitter.com/BeaufortAustin  |---------|
-| Flutter Explained   | https://www.youtube.com/c/flutterexplained               | https://twitter.com/BeaufortAustin  | Flutter Development |
-| Raf Rasenberg   | https://www.youtube.com/c/rafrasenberg               | https://twitter.com/rafrasenberg | ----- |
+| Flutter Explained   | https://www.youtube.com/c/flutterexplained               | https://twitter.com/flutter_exp  | Flutter Development |
+| Raf Rasenberg       | https://www.youtube.com/c/rafrasenberg                   | https://twitter.com/rafrasenberg | ----- |
