@@ -1,4 +1,4 @@
-| Creator             | Youtube link                                             | Twitter link                        | Topic
+| Creator             | Youtube link                                             | Twitter link                        | Topic   |
 | ------------------- | -------------------------------------------------------- | ----------------------------------- |---------|
 | Florin Pop          | https://www.youtube.com/florinpop                        | https://twitter.com/florinpop1705   |---------|
 | Benjamin N. Spak    | https://www.youtube.com/user/bnspak                      | https://twitter.com/Benjaminspak    |---------|
@@ -21,3 +21,4 @@
 | Claudio Bernasconi  | https://www.youtube.com/claudiobernasconi                | https://twitter.com/CHBernasconiC   |---------|
 | Adora Nwodo         | https://www.youtube.com/c/adorahack                      | https://twitter.com/adoranwodo      |---------|
 | Austin Beaufort     | https://www.youtube.com/channel/UCUTKXJqFhBb4YlnkEQYIvQg | https://twitter.com/BeaufortAustin  |---------|
+| Flutter Explained   | https://www.youtube.com/c/flutterexplained               | https://twitter.com/BeaufortAustin  | Flutter Development |
