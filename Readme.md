@@ -24,4 +24,4 @@
 | Flutter Explained   | https://www.youtube.com/c/flutterexplained               | https://twitter.com/flutter_exp  | Flutter Development |
 | Raf Rasenberg   | https://www.youtube.com/c/rafrasenberg               | https://twitter.com/rafrasenberg | ----- |
 | Amateur Coder   | https://www.youtube.com/c/amateurcoder               | https://twitter.com/immacoder  | Flutter Development |
-
+| Your Coding Companion    | https://www.youtube.com/channel/UCZxRTvHyN2l9qFdckkdp1jQ      | https://twitter.com/YourCodingComp      |---------|
